@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'mRaza Shaikh</h1>
+<h1 align="center">Hi there! I'm Raza Shaikh</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
 - 💬 Ask me about **java , html ,css ,javascript**
